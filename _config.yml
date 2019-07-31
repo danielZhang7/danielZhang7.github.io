@@ -58,25 +58,12 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f948186e3f6c317ce2fb                            #生成的clientID
-  clientSecret: d236c3ddfefdb43b1d89c9d8ffaff0a18a3c81be    #生成的clientSecret
+  clientID: cb5c7d00dc5cb3efd3be                            #生成的clientID
+  clientSecret: 47b21a86e912e6ad2704db0e1bfa4edc1c1ea210    #生成的clientSecret
   repo: danielZhang7.github.io    #仓库名称
   owner: danielZhang7    #github用户名
   admin: danielZhang7
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
-
-
-# 统计
-
-# Analytics settings
-# Baidu Analytics
-# ba_track_id: b50bf2b12b5338a1845e33832976fd68
-
-# Google Analytics
-# ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-# ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
-
-
 
 
 
@@ -95,16 +82,7 @@ service-worker: true
 # Friends
 #friends: [
 #    {
-#        title: "WY",
-#        href: "http://zhengwuyang.com"
-#    },{
-#        title: "简书·BY",
-#        href: "http://www.jianshu.com/u/e71990ada2fd"
-#    },{
-#        title: "Apple",
-#        href: "https://apple.com"
-#    },{
-#        title: "Apple Developer",
-#        href: "https://developer.apple.com/"
-#    }
+#        title: "",
+#        href: ""
+#    },
 #]
